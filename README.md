@@ -29,9 +29,11 @@ A full-stack **Hotel Booking System** built with the **MERN** stack (MongoDB, Ex
 
 ---
 
+**Demo** : https://hotel-booking-mern-project.vercel.app/
+
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repository
+ Clone the repository
 
 ```bash
 git clone https://github.com/your-username/hotelbookingMERNproject.git
